@@ -1,0 +1,9 @@
+@import url('https://fonts.maateen.me/mukti/font.css');
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
+
+'CharukolaUltraLight', sans-serif;
+'Mukti', sans-serif;
+'Anonymous Pro', monospace;
+

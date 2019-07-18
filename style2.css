@@ -1,0 +1,177 @@
+@import url('https://fonts.maateen.me/mukti/font.css');
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #193549;
+    font-family: Arial, sans-sarif;
+}
+p{
+	font-family: 'Mukti', sans-serif;
+}
+h1{
+	font-family:'CharukolaUltraLight', sans-serif;
+}
+
+.mainwrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+/*nav bar start form here */
+
+.mainwrapper>.mainheader {
+    background: black;
+    margin-top: 15px;
+    -webkit-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+}
+
+.mainwrapper>.mainheader>h1 {
+    color: #fff;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.mainwrapper>.mainheader>p {
+    color: white;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+
+/* main wrapper end form here */
+
+
+/* Centrerpro start form here */
+
+.centerpro {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.profile {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.profile>img {
+    width: 100%;
+    height: auto;
+    -webkit-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+}
+
+
+/* centerpro end from here */
+
+.wrapi {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.wrapi h3 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: Agency FB;
+    font-size: 30px;
+}
+
+
+/* link-wrapper start from here */
+
+.linkwrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.linkwrapper>.text {
+    float: left;
+    width: 350px;
+    margin-right: 54.5px;
+    margin-top: 10px;
+}
+
+.nomargin {
+    margin-right: 0px;
+}
+
+.text p a {
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    transition: 1s;
+}
+
+.text a:hover {
+    color: #57A255;
+}
+
+/* main content start's from here i mean main blog start from her */
+
+.bcontentwrap{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+}
+.cont h1{
+    font-size: 35px;
+    color:#fff;
+    text-align: center;
+}
+.cont h2{
+    color:#fff;
+    font-family: 'CharukolaUltraLight', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.bold{
+    font-weight: bold;
+    font-style: italic;
+}
+.cont p{
+    color:#fff;
+    font-size: 18px;
+}
+
+ /* code goes from here */
+
+ .codewrap{
+     width:100%;
+     height: auto;
+     background:#34495E;
+
+ }
+ .code{
+     margin:10px 10px 10px 10px;
+     padding: 20px 20px 20px 10px;
+ }
+code{
+     color: white;
+     font-family:'Anonymous Pro', monospace;
+     background: #5D6D7E;
+ }
+
+
+
+
+
+
+
+
+/*  -webkit-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);  */
